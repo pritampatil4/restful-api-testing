@@ -7,20 +7,7 @@ import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-/**
- * Copyright(c) 2009-2018 optile GmbH. All Rights Reserved
- * https://www.optile.net
- *
- * This software is the property of optile GmbH.  Distribution
- * of this software without agreement in writing is strictly prohibited.
- *
- * This software may not be copied, used or distributed unless agreement
- * has been received in full.
- */
 
-/**
- * @author Pritam Patil <pritam.patil@optile.net>
- */
 public class ApiMethodsTests {
 
     @Test
